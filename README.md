@@ -1,4 +1,5 @@
 # WeatherApp
 Weather Mobile app using React Native Expo 
 
-![alt text](image.jpeg)
+<img src="image.jpeg" alt="alt text" width="200" height="200" />
+
